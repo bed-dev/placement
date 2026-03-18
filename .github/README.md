@@ -1,4 +1,4 @@
-# Placement
+# placement
 
 A library for Minestom providing vanilla-like block placement mechanics. This library implements complex placement logic for various blocks, ensuring they behave correctly when placed in the world (e.g., correct rotation, connecting to neighbors, multiblock structures).
 
